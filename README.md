@@ -13,7 +13,7 @@ A simple, responsive live code editor where users can write HTML, CSS, and JavaS
 
 ## Screenshots
 
-![Live Code Editor](https://path-to-your-screenshot-image.png)
+![Live Code Editor](https://github.com/SowjanyaVangari23/Live-Code-Editor/blob/main/CodePenOutput.png)
 
 ## Technologies Used
 
