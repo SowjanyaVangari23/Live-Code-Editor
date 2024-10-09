@@ -1,5 +1,4 @@
-```md
-# Live Code Editor
+## Live Code Editor
 
 A simple, responsive live code editor where users can write HTML, CSS, and JavaScript in separate sections and see the real-time output in an embedded iframe. This project aims to provide a minimalistic, intuitive interface for experimenting with front-end code in a browser.
 
