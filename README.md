@@ -61,7 +61,4 @@ live-code-editor/
 Feel free to fork this repository and contribute with features, bug fixes, or improvements. Pull requests are welcome!
 
 
-```
-
-
 
